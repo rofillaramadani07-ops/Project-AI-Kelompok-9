@@ -1,0 +1,781 @@
+Kategori,Merek,Model,Tahun,Kilometer,Kapasitas_Mesin,Transmisi,Harga_Baru,Harga
+Motor,Honda,BeAT,2008,50542,110,Automatic,14.0,5.11
+Motor,Honda,BeAT,2008,67370,110,Automatic,14.0,5.25
+Motor,Honda,BeAT,2008,100810,110,Automatic,14.0,4.7
+Motor,Honda,BeAT,2008,90443,110,Automatic,14.0,4.78
+Motor,Honda,BeAT,2008,114848,110,Automatic,14.0,4.46
+Motor,Honda,BeAT,2008,98399,110,Automatic,14.0,4.72
+Motor,Honda,BeAT,2009,97847,110,Automatic,14.0,4.86
+Motor,Honda,BeAT,2009,56296,110,Automatic,14.0,5.19
+Motor,Honda,BeAT,2009,73878,110,Automatic,14.0,5.1
+Motor,Honda,BeAT,2009,36423,110,Automatic,14.0,5.86
+Motor,Honda,BeAT,2009,62061,110,Automatic,14.0,5.54
+Motor,Honda,BeAT,2009,67388,110,Automatic,14.0,5.27
+Motor,Honda,BeAT,2010,49567,110,Automatic,14.0,5.55
+Motor,Honda,BeAT,2010,77373,110,Automatic,14.0,5.32
+Motor,Honda,BeAT,2010,101101,110,Automatic,14.0,4.93
+Motor,Honda,BeAT,2010,97212,110,Automatic,14.0,4.82
+Motor,Honda,BeAT,2010,82410,110,Automatic,14.0,5.14
+Motor,Honda,BeAT,2010,82486,110,Automatic,14.0,4.98
+Motor,Honda,BeAT,2011,64121,110,Automatic,14.0,5.64
+Motor,Honda,BeAT,2011,80127,110,Automatic,14.0,5.13
+Motor,Honda,BeAT,2011,71412,110,Automatic,14.0,5.27
+Motor,Honda,BeAT,2011,63962,110,Automatic,14.0,5.66
+Motor,Honda,BeAT,2011,77046,110,Automatic,14.0,5.24
+Motor,Honda,BeAT,2011,31976,110,Automatic,14.0,6.02
+Motor,Honda,BeAT,2012,62326,110,Automatic,14.0,5.59
+Motor,Honda,BeAT,2012,90148,110,Automatic,14.0,5.08
+Motor,Honda,BeAT,2012,52259,110,Automatic,14.0,5.7
+Motor,Honda,BeAT,2012,65201,110,Automatic,14.0,5.54
+Motor,Honda,BeAT,2012,77397,110,Automatic,14.0,5.47
+Motor,Honda,BeAT,2012,69136,110,Automatic,14.0,5.46
+Motor,Honda,BeAT,2013,81200,110,Automatic,14.0,5.72
+Motor,Honda,BeAT,2013,42471,110,Automatic,14.0,6.18
+Motor,Honda,BeAT,2013,54409,110,Automatic,14.0,5.96
+Motor,Honda,BeAT,2013,61116,110,Automatic,14.0,5.75
+Motor,Honda,BeAT,2013,61957,110,Automatic,14.0,5.87
+Motor,Honda,BeAT,2013,80354,110,Automatic,14.0,5.61
+Motor,Honda,BeAT,2014,74703,110,Automatic,14.0,5.79
+Motor,Honda,BeAT,2014,61253,110,Automatic,14.0,6.19
+Motor,Honda,BeAT,2014,75403,110,Automatic,14.0,5.5
+Motor,Honda,BeAT,2014,67921,110,Automatic,14.0,5.96
+Motor,Honda,BeAT,2014,57158,110,Automatic,14.0,6.18
+Motor,Honda,BeAT,2014,28962,110,Automatic,14.0,6.47
+Motor,Honda,BeAT,2015,64756,110,Automatic,14.0,6.39
+Motor,Honda,BeAT,2015,55736,110,Automatic,14.0,6.65
+Motor,Honda,BeAT,2015,56868,110,Automatic,14.0,6.46
+Motor,Honda,BeAT,2015,24229,110,Automatic,14.0,7.26
+Motor,Honda,BeAT,2015,50287,110,Automatic,14.0,6.51
+Motor,Honda,BeAT,2015,54848,110,Automatic,14.0,6.4
+Motor,Honda,BeAT,2016,38021,110,Automatic,14.0,7.16
+Motor,Honda,BeAT,2016,26345,110,Automatic,14.0,7.35
+Motor,Honda,BeAT,2016,57054,110,Automatic,14.0,6.47
+Motor,Honda,BeAT,2016,63750,110,Automatic,14.0,6.62
+Motor,Honda,BeAT,2016,54346,110,Automatic,14.0,6.99
+Motor,Honda,BeAT,2016,51308,110,Automatic,14.0,6.51
+Motor,Honda,BeAT,2017,54124,110,Automatic,14.0,7.13
+Motor,Honda,BeAT,2017,43162,110,Automatic,14.0,7.09
+Motor,Honda,BeAT,2017,22333,110,Automatic,14.0,8.06
+Motor,Honda,BeAT,2017,27827,110,Automatic,14.0,6.97
+Motor,Honda,BeAT,2017,34532,110,Automatic,14.0,7.4
+Motor,Honda,BeAT,2017,54784,110,Automatic,14.0,6.74
+Motor,Honda,BeAT,2018,37676,110,Automatic,14.0,7.77
+Motor,Honda,BeAT,2018,21437,110,Automatic,14.0,8.08
+Motor,Honda,BeAT,2018,31533,110,Automatic,14.0,7.77
+Motor,Honda,BeAT,2018,36305,110,Automatic,14.0,7.88
+Motor,Honda,BeAT,2018,26069,110,Automatic,14.0,7.38
+Motor,Honda,BeAT,2018,19925,110,Automatic,14.0,8.25
+Motor,Honda,BeAT,2019,16787,110,Automatic,14.0,8.8
+Motor,Honda,BeAT,2019,21026,110,Automatic,14.0,9.12
+Motor,Honda,BeAT,2019,33641,110,Automatic,14.0,8.31
+Motor,Honda,BeAT,2019,19161,110,Automatic,14.0,8.85
+Motor,Honda,BeAT,2019,20279,110,Automatic,14.0,8.29
+Motor,Honda,BeAT,2019,38599,110,Automatic,14.0,7.81
+Motor,Honda,BeAT,2020,35114,110,Automatic,14.0,8.43
+Motor,Honda,BeAT,2020,31531,110,Automatic,14.0,9.13
+Motor,Honda,BeAT,2020,15021,110,Automatic,14.0,9.36
+Motor,Honda,BeAT,2020,18351,110,Automatic,14.0,9.18
+Motor,Honda,BeAT,2020,26501,110,Automatic,14.0,8.71
+Motor,Honda,BeAT,2020,27022,110,Automatic,14.0,8.86
+Motor,Honda,BeAT,2021,16518,110,Automatic,14.0,9.88
+Motor,Honda,BeAT,2021,28115,110,Automatic,14.0,9.26
+Motor,Honda,BeAT,2021,17198,110,Automatic,14.0,9.61
+Motor,Honda,BeAT,2021,29254,110,Automatic,14.0,8.78
+Motor,Honda,BeAT,2021,17296,110,Automatic,14.0,9.55
+Motor,Honda,BeAT,2021,17239,110,Automatic,14.0,9.37
+Motor,Honda,BeAT,2022,14811,110,Automatic,14.0,10.2
+Motor,Honda,BeAT,2022,14186,110,Automatic,14.0,10.29
+Motor,Honda,BeAT,2022,20779,110,Automatic,14.0,10.25
+Motor,Honda,BeAT,2022,17454,110,Automatic,14.0,10.15
+Motor,Honda,BeAT,2022,20096,110,Automatic,14.0,10.29
+Motor,Honda,BeAT,2022,19555,110,Automatic,14.0,10.07
+Motor,Honda,BeAT,2023,6574,110,Automatic,14.0,10.93
+Motor,Honda,BeAT,2023,14365,110,Automatic,14.0,10.52
+Motor,Honda,BeAT,2023,12492,110,Automatic,14.0,10.75
+Motor,Honda,BeAT,2023,11924,110,Automatic,14.0,11.08
+Motor,Honda,BeAT,2023,16577,110,Automatic,14.0,10.57
+Motor,Honda,BeAT,2023,15254,110,Automatic,14.0,10.78
+Motor,Honda,BeAT,2024,4840,110,Automatic,14.0,12.51
+Motor,Honda,BeAT,2024,6670,110,Automatic,14.0,12.64
+Motor,Honda,BeAT,2024,13104,110,Automatic,14.0,11.94
+Motor,Honda,BeAT,2024,12798,110,Automatic,14.0,12.43
+Motor,Honda,BeAT,2024,10925,110,Automatic,14.0,11.98
+Motor,Honda,BeAT,2024,13846,110,Automatic,14.0,11.25
+Motor,Honda,BeAT,2025,8958,110,Automatic,14.0,12.16
+Motor,Honda,BeAT,2025,7120,110,Automatic,14.0,12.88
+Motor,Honda,BeAT,2025,5280,110,Automatic,14.0,12.71
+Motor,Honda,BeAT,2025,7542,110,Automatic,14.0,12.79
+Motor,Honda,BeAT,2025,2658,110,Automatic,14.0,13.72
+Motor,Honda,BeAT,2025,6728,110,Automatic,14.0,12.2
+Motor,Honda,BeAT,2026,1954,110,Automatic,14.0,13.15
+Motor,Honda,BeAT,2026,592,110,Automatic,14.0,13.72
+Motor,Honda,BeAT,2026,1495,110,Automatic,14.0,13.41
+Motor,Honda,BeAT,2026,613,110,Automatic,14.0,13.72
+Motor,Honda,BeAT,2026,1052,110,Automatic,14.0,13.72
+Motor,Honda,BeAT,2026,2955,110,Automatic,14.0,13.72
+Motor,Honda,BeAT Sporty CBS,2020,22508,110,Automatic,17.5,11.4
+Motor,Honda,BeAT Sporty CBS,2020,34465,110,Automatic,17.5,11.06
+Motor,Honda,BeAT Sporty CBS,2020,15946,110,Automatic,17.5,11.39
+Motor,Honda,BeAT Sporty CBS,2020,31324,110,Automatic,17.5,11.56
+Motor,Honda,BeAT Sporty CBS,2020,23510,110,Automatic,17.5,11.07
+Motor,Honda,BeAT Sporty CBS,2020,20775,110,Automatic,17.5,10.92
+Motor,Honda,BeAT Sporty CBS,2021,21353,110,Automatic,17.5,11.94
+Motor,Honda,BeAT Sporty CBS,2021,15565,110,Automatic,17.5,12.29
+Motor,Honda,BeAT Sporty CBS,2021,22880,110,Automatic,17.5,12.75
+Motor,Honda,BeAT Sporty CBS,2021,16938,110,Automatic,17.5,12.02
+Motor,Honda,BeAT Sporty CBS,2021,23347,110,Automatic,17.5,11.33
+Motor,Honda,BeAT Sporty CBS,2021,29075,110,Automatic,17.5,12.05
+Motor,Honda,BeAT Sporty CBS,2022,17633,110,Automatic,17.5,12.59
+Motor,Honda,BeAT Sporty CBS,2022,23365,110,Automatic,17.5,12.18
+Motor,Honda,BeAT Sporty CBS,2022,17099,110,Automatic,17.5,12.89
+Motor,Honda,BeAT Sporty CBS,2022,16165,110,Automatic,17.5,12.66
+Motor,Honda,BeAT Sporty CBS,2022,16810,110,Automatic,17.5,12.32
+Motor,Honda,BeAT Sporty CBS,2022,17211,110,Automatic,17.5,12.98
+Motor,Honda,BeAT Sporty CBS,2023,14725,110,Automatic,17.5,13.52
+Motor,Honda,BeAT Sporty CBS,2023,20776,110,Automatic,17.5,13.12
+Motor,Honda,BeAT Sporty CBS,2023,8586,110,Automatic,17.5,13.38
+Motor,Honda,BeAT Sporty CBS,2023,15029,110,Automatic,17.5,13.34
+Motor,Honda,BeAT Sporty CBS,2023,10541,110,Automatic,17.5,13.94
+Motor,Honda,BeAT Sporty CBS,2023,8708,110,Automatic,17.5,13.36
+Motor,Honda,BeAT Sporty CBS,2024,6735,110,Automatic,17.5,15.16
+Motor,Honda,BeAT Sporty CBS,2024,11224,110,Automatic,17.5,14.38
+Motor,Honda,BeAT Sporty CBS,2024,9333,110,Automatic,17.5,14.89
+Motor,Honda,BeAT Sporty CBS,2024,10860,110,Automatic,17.5,14.87
+Motor,Honda,BeAT Sporty CBS,2024,13395,110,Automatic,17.5,14.94
+Motor,Honda,BeAT Sporty CBS,2024,9762,110,Automatic,17.5,13.72
+Motor,Honda,BeAT Sporty CBS,2025,3539,110,Automatic,17.5,16.76
+Motor,Honda,BeAT Sporty CBS,2025,6627,110,Automatic,17.5,16.31
+Motor,Honda,BeAT Sporty CBS,2025,7024,110,Automatic,17.5,15.4
+Motor,Honda,BeAT Sporty CBS,2025,4248,110,Automatic,17.5,16.18
+Motor,Honda,BeAT Sporty CBS,2025,6065,110,Automatic,17.5,15.7
+Motor,Honda,BeAT Sporty CBS,2025,3069,110,Automatic,17.5,16.25
+Motor,Honda,BeAT Sporty CBS,2026,646,110,Automatic,17.5,17.15
+Motor,Honda,BeAT Sporty CBS,2026,500,110,Automatic,17.5,16.73
+Motor,Honda,BeAT Sporty CBS,2026,1742,110,Automatic,17.5,17.15
+Motor,Honda,BeAT Sporty CBS,2026,1915,110,Automatic,17.5,17.15
+Motor,Honda,BeAT Sporty CBS,2026,2746,110,Automatic,17.5,17.15
+Motor,Honda,BeAT Sporty CBS,2026,1325,110,Automatic,17.5,17.15
+Motor,Honda,Scoopy Stylish,2021,30068,110,Automatic,20.5,13.02
+Motor,Honda,Scoopy Stylish,2021,16764,110,Automatic,20.5,13.97
+Motor,Honda,Scoopy Stylish,2021,21475,110,Automatic,20.5,13.53
+Motor,Honda,Scoopy Stylish,2021,24970,110,Automatic,20.5,13.86
+Motor,Honda,Scoopy Stylish,2021,27890,110,Automatic,20.5,12.64
+Motor,Honda,Scoopy Stylish,2021,15213,110,Automatic,20.5,14.66
+Motor,Honda,Scoopy Stylish,2022,25270,110,Automatic,20.5,14.34
+Motor,Honda,Scoopy Stylish,2022,10612,110,Automatic,20.5,15.21
+Motor,Honda,Scoopy Stylish,2022,20799,110,Automatic,20.5,14.17
+Motor,Honda,Scoopy Stylish,2022,8630,110,Automatic,20.5,15.5
+Motor,Honda,Scoopy Stylish,2022,19866,110,Automatic,20.5,14.91
+Motor,Honda,Scoopy Stylish,2022,14551,110,Automatic,20.5,14.59
+Motor,Honda,Scoopy Stylish,2023,7225,110,Automatic,20.5,16.22
+Motor,Honda,Scoopy Stylish,2023,16763,110,Automatic,20.5,15.64
+Motor,Honda,Scoopy Stylish,2023,7458,110,Automatic,20.5,16.5
+Motor,Honda,Scoopy Stylish,2023,12796,110,Automatic,20.5,16.26
+Motor,Honda,Scoopy Stylish,2023,12862,110,Automatic,20.5,16.7
+Motor,Honda,Scoopy Stylish,2023,18911,110,Automatic,20.5,15.38
+Motor,Honda,Scoopy Stylish,2024,9197,110,Automatic,20.5,17.34
+Motor,Honda,Scoopy Stylish,2024,6756,110,Automatic,20.5,17.79
+Motor,Honda,Scoopy Stylish,2024,10534,110,Automatic,20.5,17.6
+Motor,Honda,Scoopy Stylish,2024,8726,110,Automatic,20.5,17.51
+Motor,Honda,Scoopy Stylish,2024,8548,110,Automatic,20.5,17.39
+Motor,Honda,Scoopy Stylish,2024,11083,110,Automatic,20.5,16.75
+Motor,Honda,Scoopy Stylish,2025,4636,110,Automatic,20.5,19.06
+Motor,Honda,Scoopy Stylish,2025,8664,110,Automatic,20.5,18.46
+Motor,Honda,Scoopy Stylish,2025,5649,110,Automatic,20.5,18.38
+Motor,Honda,Scoopy Stylish,2025,5669,110,Automatic,20.5,18.77
+Motor,Honda,Scoopy Stylish,2025,6415,110,Automatic,20.5,18.26
+Motor,Honda,Scoopy Stylish,2025,4247,110,Automatic,20.5,18.82
+Motor,Honda,Scoopy Stylish,2026,2375,110,Automatic,20.5,19.95
+Motor,Honda,Scoopy Stylish,2026,2532,110,Automatic,20.5,20.09
+Motor,Honda,Scoopy Stylish,2026,539,110,Automatic,20.5,20.09
+Motor,Honda,Scoopy Stylish,2026,922,110,Automatic,20.5,19.29
+Motor,Honda,Scoopy Stylish,2026,500,110,Automatic,20.5,20.09
+Motor,Honda,Scoopy Stylish,2026,2883,110,Automatic,20.5,19.48
+Motor,Honda,Vario 125,2018,21023,125,Automatic,21.0,12.11
+Motor,Honda,Vario 125,2018,44577,125,Automatic,21.0,11.6
+Motor,Honda,Vario 125,2018,45566,125,Automatic,21.0,11.35
+Motor,Honda,Vario 125,2018,30759,125,Automatic,21.0,11.33
+Motor,Honda,Vario 125,2018,23295,125,Automatic,21.0,12.04
+Motor,Honda,Vario 125,2018,50121,125,Automatic,21.0,11.34
+Motor,Honda,Vario 125,2019,18132,125,Automatic,21.0,12.73
+Motor,Honda,Vario 125,2019,18275,125,Automatic,21.0,12.49
+Motor,Honda,Vario 125,2019,39458,125,Automatic,21.0,11.68
+Motor,Honda,Vario 125,2019,46179,125,Automatic,21.0,12.07
+Motor,Honda,Vario 125,2019,33062,125,Automatic,21.0,11.88
+Motor,Honda,Vario 125,2019,35181,125,Automatic,21.0,12.38
+Motor,Honda,Vario 125,2020,16528,125,Automatic,21.0,13.83
+Motor,Honda,Vario 125,2020,38694,125,Automatic,21.0,12.24
+Motor,Honda,Vario 125,2020,24159,125,Automatic,21.0,13.74
+Motor,Honda,Vario 125,2020,39945,125,Automatic,21.0,12.85
+Motor,Honda,Vario 125,2020,37214,125,Automatic,21.0,13.96
+Motor,Honda,Vario 125,2020,40043,125,Automatic,21.0,12.63
+Motor,Honda,Vario 125,2021,14665,125,Automatic,21.0,13.93
+Motor,Honda,Vario 125,2021,27698,125,Automatic,21.0,14.33
+Motor,Honda,Vario 125,2021,23914,125,Automatic,21.0,13.85
+Motor,Honda,Vario 125,2021,14604,125,Automatic,21.0,14.5
+Motor,Honda,Vario 125,2021,22633,125,Automatic,21.0,13.5
+Motor,Honda,Vario 125,2021,22011,125,Automatic,21.0,14.87
+Motor,Honda,Vario 125,2022,23920,125,Automatic,21.0,15.27
+Motor,Honda,Vario 125,2022,23421,125,Automatic,21.0,15.22
+Motor,Honda,Vario 125,2022,24110,125,Automatic,21.0,14.68
+Motor,Honda,Vario 125,2022,18762,125,Automatic,21.0,15.08
+Motor,Honda,Vario 125,2022,25647,125,Automatic,21.0,14.2
+Motor,Honda,Vario 125,2022,22439,125,Automatic,21.0,15.36
+Motor,Honda,Vario 125,2023,12902,125,Automatic,21.0,16.88
+Motor,Honda,Vario 125,2023,17804,125,Automatic,21.0,16.62
+Motor,Honda,Vario 125,2023,16811,125,Automatic,21.0,16.17
+Motor,Honda,Vario 125,2023,16630,125,Automatic,21.0,16.07
+Motor,Honda,Vario 125,2023,10088,125,Automatic,21.0,16.15
+Motor,Honda,Vario 125,2023,9956,125,Automatic,21.0,16.21
+Motor,Honda,Vario 125,2024,11644,125,Automatic,21.0,17.62
+Motor,Honda,Vario 125,2024,7963,125,Automatic,21.0,16.74
+Motor,Honda,Vario 125,2024,6979,125,Automatic,21.0,17.92
+Motor,Honda,Vario 125,2024,9922,125,Automatic,21.0,17.47
+Motor,Honda,Vario 125,2024,10375,125,Automatic,21.0,18.2
+Motor,Honda,Vario 125,2024,8375,125,Automatic,21.0,17.66
+Motor,Honda,Vario 125,2025,7471,125,Automatic,21.0,19.33
+Motor,Honda,Vario 125,2025,3624,125,Automatic,21.0,19.15
+Motor,Honda,Vario 125,2025,7022,125,Automatic,21.0,18.94
+Motor,Honda,Vario 125,2025,7239,125,Automatic,21.0,19.04
+Motor,Honda,Vario 125,2025,6345,125,Automatic,21.0,18.71
+Motor,Honda,Vario 125,2025,5735,125,Automatic,21.0,19.26
+Motor,Honda,Vario 125,2026,1945,125,Automatic,21.0,20.44
+Motor,Honda,Vario 125,2026,2475,125,Automatic,21.0,20.58
+Motor,Honda,Vario 125,2026,2255,125,Automatic,21.0,20.58
+Motor,Honda,Vario 125,2026,2450,125,Automatic,21.0,20.58
+Motor,Honda,Vario 125,2026,1939,125,Automatic,21.0,20.58
+Motor,Honda,Vario 125,2026,2278,125,Automatic,21.0,20.58
+Motor,Yamaha,NMAX 155 Connected,2020,39886,155,Automatic,33.0,19.68
+Motor,Yamaha,NMAX 155 Connected,2020,28663,155,Automatic,33.0,20.51
+Motor,Yamaha,NMAX 155 Connected,2020,28556,155,Automatic,33.0,20.75
+Motor,Yamaha,NMAX 155 Connected,2020,33682,155,Automatic,33.0,20.1
+Motor,Yamaha,NMAX 155 Connected,2020,18211,155,Automatic,33.0,20.91
+Motor,Yamaha,NMAX 155 Connected,2020,23792,155,Automatic,33.0,21.58
+Motor,Yamaha,NMAX 155 Connected,2021,13076,155,Automatic,33.0,23.18
+Motor,Yamaha,NMAX 155 Connected,2021,31233,155,Automatic,33.0,21.42
+Motor,Yamaha,NMAX 155 Connected,2021,29013,155,Automatic,33.0,20.78
+Motor,Yamaha,NMAX 155 Connected,2021,31052,155,Automatic,33.0,21.57
+Motor,Yamaha,NMAX 155 Connected,2021,21708,155,Automatic,33.0,22.83
+Motor,Yamaha,NMAX 155 Connected,2021,33004,155,Automatic,33.0,21.19
+Motor,Yamaha,NMAX 155 Connected,2022,25574,155,Automatic,33.0,23.51
+Motor,Yamaha,NMAX 155 Connected,2022,22705,155,Automatic,33.0,23.31
+Motor,Yamaha,NMAX 155 Connected,2022,14089,155,Automatic,33.0,23.94
+Motor,Yamaha,NMAX 155 Connected,2022,15400,155,Automatic,33.0,24.13
+Motor,Yamaha,NMAX 155 Connected,2022,25934,155,Automatic,33.0,22.88
+Motor,Yamaha,NMAX 155 Connected,2022,19116,155,Automatic,33.0,23.83
+Motor,Yamaha,NMAX 155 Connected,2023,7664,155,Automatic,33.0,25.53
+Motor,Yamaha,NMAX 155 Connected,2023,10763,155,Automatic,33.0,23.67
+Motor,Yamaha,NMAX 155 Connected,2023,18266,155,Automatic,33.0,25.83
+Motor,Yamaha,NMAX 155 Connected,2023,18404,155,Automatic,33.0,24.24
+Motor,Yamaha,NMAX 155 Connected,2023,13960,155,Automatic,33.0,26.08
+Motor,Yamaha,NMAX 155 Connected,2023,8992,155,Automatic,33.0,25.26
+Motor,Yamaha,NMAX 155 Connected,2024,12872,155,Automatic,33.0,27.4
+Motor,Yamaha,NMAX 155 Connected,2024,10176,155,Automatic,33.0,26.34
+Motor,Yamaha,NMAX 155 Connected,2024,11326,155,Automatic,33.0,27.43
+Motor,Yamaha,NMAX 155 Connected,2024,13692,155,Automatic,33.0,26.17
+Motor,Yamaha,NMAX 155 Connected,2024,7413,155,Automatic,33.0,27.73
+Motor,Yamaha,NMAX 155 Connected,2024,10061,155,Automatic,33.0,28.05
+Motor,Yamaha,NMAX 155 Connected,2025,5800,155,Automatic,33.0,32.0
+Motor,Yamaha,NMAX 155 Connected,2025,2578,155,Automatic,33.0,30.79
+Motor,Yamaha,NMAX 155 Connected,2025,2716,155,Automatic,33.0,30.3
+Motor,Yamaha,NMAX 155 Connected,2025,6583,155,Automatic,33.0,31.1
+Motor,Yamaha,NMAX 155 Connected,2025,4705,155,Automatic,33.0,30.71
+Motor,Yamaha,NMAX 155 Connected,2025,8775,155,Automatic,33.0,27.87
+Motor,Yamaha,NMAX 155 Connected,2026,2329,155,Automatic,33.0,32.34
+Motor,Yamaha,NMAX 155 Connected,2026,2473,155,Automatic,33.0,32.34
+Motor,Yamaha,NMAX 155 Connected,2026,2290,155,Automatic,33.0,32.34
+Motor,Yamaha,NMAX 155 Connected,2026,1711,155,Automatic,33.0,32.34
+Motor,Yamaha,NMAX 155 Connected,2026,2167,155,Automatic,33.0,32.34
+Motor,Yamaha,NMAX 155 Connected,2026,1425,155,Automatic,33.0,32.34
+Motor,Yamaha,Aerox 155,2021,16578,155,Automatic,28.5,20.73
+Motor,Yamaha,Aerox 155,2021,28411,155,Automatic,28.5,19.3
+Motor,Yamaha,Aerox 155,2021,25747,155,Automatic,28.5,18.48
+Motor,Yamaha,Aerox 155,2021,14313,155,Automatic,28.5,19.69
+Motor,Yamaha,Aerox 155,2021,31899,155,Automatic,28.5,18.83
+Motor,Yamaha,Aerox 155,2021,30948,155,Automatic,28.5,17.94
+Motor,Yamaha,Aerox 155,2022,12168,155,Automatic,28.5,20.47
+Motor,Yamaha,Aerox 155,2022,23319,155,Automatic,28.5,20.27
+Motor,Yamaha,Aerox 155,2022,21912,155,Automatic,28.5,20.57
+Motor,Yamaha,Aerox 155,2022,20167,155,Automatic,28.5,20.46
+Motor,Yamaha,Aerox 155,2022,26707,155,Automatic,28.5,18.59
+Motor,Yamaha,Aerox 155,2022,26207,155,Automatic,28.5,20.52
+Motor,Yamaha,Aerox 155,2023,14383,155,Automatic,28.5,23.09
+Motor,Yamaha,Aerox 155,2023,16801,155,Automatic,28.5,22.82
+Motor,Yamaha,Aerox 155,2023,11116,155,Automatic,28.5,20.44
+Motor,Yamaha,Aerox 155,2023,15229,155,Automatic,28.5,22.24
+Motor,Yamaha,Aerox 155,2023,20530,155,Automatic,28.5,21.1
+Motor,Yamaha,Aerox 155,2023,19236,155,Automatic,28.5,22.08
+Motor,Yamaha,Aerox 155,2024,8147,155,Automatic,28.5,23.34
+Motor,Yamaha,Aerox 155,2024,15064,155,Automatic,28.5,23.45
+Motor,Yamaha,Aerox 155,2024,10162,155,Automatic,28.5,24.97
+Motor,Yamaha,Aerox 155,2024,8666,155,Automatic,28.5,23.34
+Motor,Yamaha,Aerox 155,2024,14053,155,Automatic,28.5,23.63
+Motor,Yamaha,Aerox 155,2024,13299,155,Automatic,28.5,25.06
+Motor,Yamaha,Aerox 155,2025,4114,155,Automatic,28.5,25.91
+Motor,Yamaha,Aerox 155,2025,7849,155,Automatic,28.5,25.69
+Motor,Yamaha,Aerox 155,2025,5058,155,Automatic,28.5,25.13
+Motor,Yamaha,Aerox 155,2025,7196,155,Automatic,28.5,25.6
+Motor,Yamaha,Aerox 155,2025,7688,155,Automatic,28.5,24.84
+Motor,Yamaha,Aerox 155,2025,7538,155,Automatic,28.5,26.2
+Motor,Yamaha,Aerox 155,2026,1369,155,Automatic,28.5,27.93
+Motor,Yamaha,Aerox 155,2026,684,155,Automatic,28.5,27.93
+Motor,Yamaha,Aerox 155,2026,1029,155,Automatic,28.5,27.74
+Motor,Yamaha,Aerox 155,2026,938,155,Automatic,28.5,27.93
+Motor,Yamaha,Aerox 155,2026,895,155,Automatic,28.5,27.93
+Motor,Yamaha,Aerox 155,2026,1893,155,Automatic,28.5,27.93
+Motor,Kawasaki,Ninja 250 ABS,2019,25297,250,Manual,66.0,40.68
+Motor,Kawasaki,Ninja 250 ABS,2019,29183,250,Manual,66.0,39.26
+Motor,Kawasaki,Ninja 250 ABS,2019,18289,250,Manual,66.0,41.33
+Motor,Kawasaki,Ninja 250 ABS,2019,14689,250,Manual,66.0,40.4
+Motor,Kawasaki,Ninja 250 ABS,2019,35115,250,Manual,66.0,37.31
+Motor,Kawasaki,Ninja 250 ABS,2019,17854,250,Manual,66.0,41.06
+Motor,Kawasaki,Ninja 250 ABS,2020,31066,250,Manual,66.0,42.2
+Motor,Kawasaki,Ninja 250 ABS,2020,25011,250,Manual,66.0,39.08
+Motor,Kawasaki,Ninja 250 ABS,2020,15325,250,Manual,66.0,44.18
+Motor,Kawasaki,Ninja 250 ABS,2020,25269,250,Manual,66.0,41.6
+Motor,Kawasaki,Ninja 250 ABS,2020,24112,250,Manual,66.0,41.41
+Motor,Kawasaki,Ninja 250 ABS,2020,33103,250,Manual,66.0,41.63
+Motor,Kawasaki,Ninja 250 ABS,2021,19161,250,Manual,66.0,44.59
+Motor,Kawasaki,Ninja 250 ABS,2021,14519,250,Manual,66.0,43.88
+Motor,Kawasaki,Ninja 250 ABS,2021,27741,250,Manual,66.0,44.07
+Motor,Kawasaki,Ninja 250 ABS,2021,13911,250,Manual,66.0,45.0
+Motor,Kawasaki,Ninja 250 ABS,2021,22995,250,Manual,66.0,40.91
+Motor,Kawasaki,Ninja 250 ABS,2021,25755,250,Manual,66.0,42.93
+Motor,Kawasaki,Ninja 250 ABS,2022,20748,250,Manual,66.0,46.93
+Motor,Kawasaki,Ninja 250 ABS,2022,23170,250,Manual,66.0,48.62
+Motor,Kawasaki,Ninja 250 ABS,2022,16830,250,Manual,66.0,49.55
+Motor,Kawasaki,Ninja 250 ABS,2022,24706,250,Manual,66.0,47.17
+Motor,Kawasaki,Ninja 250 ABS,2022,14427,250,Manual,66.0,46.68
+Motor,Kawasaki,Ninja 250 ABS,2022,15348,250,Manual,66.0,50.46
+Motor,Kawasaki,Ninja 250 ABS,2023,14866,250,Manual,66.0,50.13
+Motor,Kawasaki,Ninja 250 ABS,2023,12544,250,Manual,66.0,53.53
+Motor,Kawasaki,Ninja 250 ABS,2023,16650,250,Manual,66.0,47.76
+Motor,Kawasaki,Ninja 250 ABS,2023,17518,250,Manual,66.0,50.69
+Motor,Kawasaki,Ninja 250 ABS,2023,16574,250,Manual,66.0,52.36
+Motor,Kawasaki,Ninja 250 ABS,2023,13375,250,Manual,66.0,54.02
+Motor,Kawasaki,Ninja 250 ABS,2024,5305,250,Manual,66.0,54.04
+Motor,Kawasaki,Ninja 250 ABS,2024,14854,250,Manual,66.0,51.95
+Motor,Kawasaki,Ninja 250 ABS,2024,14153,250,Manual,66.0,56.85
+Motor,Kawasaki,Ninja 250 ABS,2024,11610,250,Manual,66.0,55.58
+Motor,Kawasaki,Ninja 250 ABS,2024,9814,250,Manual,66.0,55.18
+Motor,Kawasaki,Ninja 250 ABS,2024,12398,250,Manual,66.0,57.22
+Motor,Kawasaki,Ninja 250 ABS,2025,5977,250,Manual,66.0,56.75
+Motor,Kawasaki,Ninja 250 ABS,2025,7318,250,Manual,66.0,59.34
+Motor,Kawasaki,Ninja 250 ABS,2025,5281,250,Manual,66.0,62.51
+Motor,Kawasaki,Ninja 250 ABS,2025,5652,250,Manual,66.0,61.34
+Motor,Kawasaki,Ninja 250 ABS,2025,6499,250,Manual,66.0,58.5
+Motor,Kawasaki,Ninja 250 ABS,2025,4166,250,Manual,66.0,61.04
+Motor,Kawasaki,Ninja 250 ABS,2026,1704,250,Manual,66.0,64.68
+Motor,Kawasaki,Ninja 250 ABS,2026,2238,250,Manual,66.0,64.68
+Motor,Kawasaki,Ninja 250 ABS,2026,755,250,Manual,66.0,62.11
+Motor,Kawasaki,Ninja 250 ABS,2026,2039,250,Manual,66.0,64.68
+Motor,Kawasaki,Ninja 250 ABS,2026,500,250,Manual,66.0,62.48
+Motor,Kawasaki,Ninja 250 ABS,2026,875,250,Manual,66.0,64.68
+Motor,Suzuki,Satria F150,2016,32266,150,Manual,23.5,11.9
+Motor,Suzuki,Satria F150,2016,34961,150,Manual,23.5,12.16
+Motor,Suzuki,Satria F150,2016,41033,150,Manual,23.5,10.91
+Motor,Suzuki,Satria F150,2016,63201,150,Manual,23.5,11.69
+Motor,Suzuki,Satria F150,2016,30329,150,Manual,23.5,11.83
+Motor,Suzuki,Satria F150,2016,24115,150,Manual,23.5,12.01
+Motor,Suzuki,Satria F150,2017,58226,150,Manual,23.5,11.61
+Motor,Suzuki,Satria F150,2017,26516,150,Manual,23.5,12.59
+Motor,Suzuki,Satria F150,2017,33638,150,Manual,23.5,12.48
+Motor,Suzuki,Satria F150,2017,51584,150,Manual,23.5,11.72
+Motor,Suzuki,Satria F150,2017,41780,150,Manual,23.5,11.67
+Motor,Suzuki,Satria F150,2017,31703,150,Manual,23.5,12.28
+Motor,Suzuki,Satria F150,2018,41453,150,Manual,23.5,12.67
+Motor,Suzuki,Satria F150,2018,38445,150,Manual,23.5,11.81
+Motor,Suzuki,Satria F150,2018,27809,150,Manual,23.5,13.16
+Motor,Suzuki,Satria F150,2018,51552,150,Manual,23.5,12.56
+Motor,Suzuki,Satria F150,2018,40164,150,Manual,23.5,13.04
+Motor,Suzuki,Satria F150,2018,45190,150,Manual,23.5,12.86
+Motor,Suzuki,Satria F150,2019,20760,150,Manual,23.5,14.14
+Motor,Suzuki,Satria F150,2019,23910,150,Manual,23.5,14.59
+Motor,Suzuki,Satria F150,2019,39725,150,Manual,23.5,13.71
+Motor,Suzuki,Satria F150,2019,32319,150,Manual,23.5,13.28
+Motor,Suzuki,Satria F150,2019,19323,150,Manual,23.5,14.45
+Motor,Suzuki,Satria F150,2019,42296,150,Manual,23.5,13.19
+Motor,Suzuki,Satria F150,2020,32396,150,Manual,23.5,14.42
+Motor,Suzuki,Satria F150,2020,36345,150,Manual,23.5,14.35
+Motor,Suzuki,Satria F150,2020,27463,150,Manual,23.5,14.6
+Motor,Suzuki,Satria F150,2020,32218,150,Manual,23.5,14.31
+Motor,Suzuki,Satria F150,2020,23410,150,Manual,23.5,14.28
+Motor,Suzuki,Satria F150,2020,28989,150,Manual,23.5,15.54
+Motor,Suzuki,Satria F150,2021,15701,150,Manual,23.5,15.64
+Motor,Suzuki,Satria F150,2021,33794,150,Manual,23.5,15.67
+Motor,Suzuki,Satria F150,2021,17987,150,Manual,23.5,16.2
+Motor,Suzuki,Satria F150,2021,26557,150,Manual,23.5,14.55
+Motor,Suzuki,Satria F150,2021,30599,150,Manual,23.5,15.55
+Motor,Suzuki,Satria F150,2021,25128,150,Manual,23.5,15.82
+Motor,Suzuki,Satria F150,2022,24742,150,Manual,23.5,16.83
+Motor,Suzuki,Satria F150,2022,23207,150,Manual,23.5,16.64
+Motor,Suzuki,Satria F150,2022,18880,150,Manual,23.5,16.57
+Motor,Suzuki,Satria F150,2022,26087,150,Manual,23.5,16.39
+Motor,Suzuki,Satria F150,2022,11224,150,Manual,23.5,17.43
+Motor,Suzuki,Satria F150,2022,19573,150,Manual,23.5,16.52
+Motor,Suzuki,Satria F150,2023,12351,150,Manual,23.5,17.7
+Motor,Suzuki,Satria F150,2023,10046,150,Manual,23.5,19.04
+Motor,Suzuki,Satria F150,2023,18537,150,Manual,23.5,18.4
+Motor,Suzuki,Satria F150,2023,19221,150,Manual,23.5,18.52
+Motor,Suzuki,Satria F150,2023,19594,150,Manual,23.5,18.67
+Motor,Suzuki,Satria F150,2023,8515,150,Manual,23.5,19.07
+Motor,Suzuki,Satria F150,2024,6680,150,Manual,23.5,19.32
+Motor,Suzuki,Satria F150,2024,13758,150,Manual,23.5,20.18
+Motor,Suzuki,Satria F150,2024,7936,150,Manual,23.5,19.83
+Motor,Suzuki,Satria F150,2024,7065,150,Manual,23.5,19.74
+Motor,Suzuki,Satria F150,2024,14473,150,Manual,23.5,19.86
+Motor,Suzuki,Satria F150,2024,5962,150,Manual,23.5,19.62
+Motor,Suzuki,Satria F150,2025,6939,150,Manual,23.5,21.21
+Motor,Suzuki,Satria F150,2025,3930,150,Manual,23.5,21.7
+Motor,Suzuki,Satria F150,2025,7212,150,Manual,23.5,21.39
+Motor,Suzuki,Satria F150,2025,4580,150,Manual,23.5,21.76
+Motor,Suzuki,Satria F150,2025,4760,150,Manual,23.5,22.47
+Motor,Suzuki,Satria F150,2025,8124,150,Manual,23.5,21.68
+Motor,Suzuki,Satria F150,2026,500,150,Manual,23.5,23.03
+Motor,Suzuki,Satria F150,2026,2369,150,Manual,23.5,23.03
+Motor,Suzuki,Satria F150,2026,2055,150,Manual,23.5,23.03
+Motor,Suzuki,Satria F150,2026,1271,150,Manual,23.5,23.03
+Motor,Suzuki,Satria F150,2026,2380,150,Manual,23.5,22.23
+Motor,Suzuki,Satria F150,2026,2673,150,Manual,23.5,22.37
+Mobil,Toyota,Avanza 1.3 G M/T,2019,61754,1300,Manual,215.0,155.4
+Mobil,Toyota,Avanza 1.3 G M/T,2019,74475,1300,Manual,215.0,157.52
+Mobil,Toyota,Avanza 1.3 G M/T,2019,88158,1300,Manual,215.0,150.17
+Mobil,Toyota,Avanza 1.3 G M/T,2019,51243,1300,Manual,215.0,152.51
+Mobil,Toyota,Avanza 1.3 G M/T,2019,43355,1300,Manual,215.0,157.84
+Mobil,Toyota,Avanza 1.3 G M/T,2019,87663,1300,Manual,215.0,144.92
+Mobil,Toyota,Avanza 1.3 G M/T,2020,87078,1300,Manual,215.0,149.99
+Mobil,Toyota,Avanza 1.3 G M/T,2020,85200,1300,Manual,215.0,151.75
+Mobil,Toyota,Avanza 1.3 G M/T,2020,33015,1300,Manual,215.0,171.81
+Mobil,Toyota,Avanza 1.3 G M/T,2020,67813,1300,Manual,215.0,156.89
+Mobil,Toyota,Avanza 1.3 G M/T,2020,49228,1300,Manual,215.0,163.99
+Mobil,Toyota,Avanza 1.3 G M/T,2020,41773,1300,Manual,215.0,160.12
+Mobil,Toyota,Avanza 1.3 G M/T,2021,64073,1300,Manual,215.0,164.48
+Mobil,Toyota,Avanza 1.3 G M/T,2021,44370,1300,Manual,215.0,166.33
+Mobil,Toyota,Avanza 1.3 G M/T,2021,52297,1300,Manual,215.0,164.36
+Mobil,Toyota,Avanza 1.3 G M/T,2021,81094,1300,Manual,215.0,165.99
+Mobil,Toyota,Avanza 1.3 G M/T,2021,31850,1300,Manual,215.0,177.3
+Mobil,Toyota,Avanza 1.3 G M/T,2021,27266,1300,Manual,215.0,180.07
+Mobil,Toyota,Avanza 1.3 G M/T,2022,35603,1300,Manual,215.0,175.01
+Mobil,Toyota,Avanza 1.3 G M/T,2022,21522,1300,Manual,215.0,185.39
+Mobil,Toyota,Avanza 1.3 G M/T,2022,64246,1300,Manual,215.0,166.18
+Mobil,Toyota,Avanza 1.3 G M/T,2022,25503,1300,Manual,215.0,173.48
+Mobil,Toyota,Avanza 1.3 G M/T,2022,45151,1300,Manual,215.0,168.76
+Mobil,Toyota,Avanza 1.3 G M/T,2022,39168,1300,Manual,215.0,179.97
+Mobil,Toyota,Avanza 1.3 G M/T,2023,23068,1300,Manual,215.0,189.95
+Mobil,Toyota,Avanza 1.3 G M/T,2023,20073,1300,Manual,215.0,183.88
+Mobil,Toyota,Avanza 1.3 G M/T,2023,21362,1300,Manual,215.0,182.86
+Mobil,Toyota,Avanza 1.3 G M/T,2023,34582,1300,Manual,215.0,178.09
+Mobil,Toyota,Avanza 1.3 G M/T,2023,29731,1300,Manual,215.0,185.52
+Mobil,Toyota,Avanza 1.3 G M/T,2023,39362,1300,Manual,215.0,185.03
+Mobil,Toyota,Avanza 1.3 G M/T,2024,19428,1300,Manual,215.0,191.23
+Mobil,Toyota,Avanza 1.3 G M/T,2024,13113,1300,Manual,215.0,197.13
+Mobil,Toyota,Avanza 1.3 G M/T,2024,29729,1300,Manual,215.0,187.62
+Mobil,Toyota,Avanza 1.3 G M/T,2024,13643,1300,Manual,215.0,190.16
+Mobil,Toyota,Avanza 1.3 G M/T,2024,20319,1300,Manual,215.0,184.89
+Mobil,Toyota,Avanza 1.3 G M/T,2024,26158,1300,Manual,215.0,194.63
+Mobil,Toyota,Avanza 1.3 G M/T,2025,15368,1300,Manual,215.0,189.89
+Mobil,Toyota,Avanza 1.3 G M/T,2025,8773,1300,Manual,215.0,200.74
+Mobil,Toyota,Avanza 1.3 G M/T,2025,17214,1300,Manual,215.0,204.46
+Mobil,Toyota,Avanza 1.3 G M/T,2025,8738,1300,Manual,215.0,206.12
+Mobil,Toyota,Avanza 1.3 G M/T,2025,8717,1300,Manual,215.0,206.81
+Mobil,Toyota,Avanza 1.3 G M/T,2025,15295,1300,Manual,215.0,198.33
+Mobil,Toyota,Avanza 1.3 G M/T,2026,1869,1300,Manual,215.0,210.7
+Mobil,Toyota,Avanza 1.3 G M/T,2026,2543,1300,Manual,215.0,210.7
+Mobil,Toyota,Avanza 1.3 G M/T,2026,1376,1300,Manual,215.0,210.7
+Mobil,Toyota,Avanza 1.3 G M/T,2026,2251,1300,Manual,215.0,210.7
+Mobil,Toyota,Avanza 1.3 G M/T,2026,2296,1300,Manual,215.0,209.14
+Mobil,Toyota,Avanza 1.3 G M/T,2026,2852,1300,Manual,215.0,210.7
+Mobil,Toyota,Innova Reborn 2.4 G,2018,62328,2400,Automatic,400.0,285.82
+Mobil,Toyota,Innova Reborn 2.4 G,2018,80864,2400,Automatic,400.0,297.6
+Mobil,Toyota,Innova Reborn 2.4 G,2018,108535,2400,Automatic,400.0,264.16
+Mobil,Toyota,Innova Reborn 2.4 G,2018,85276,2400,Automatic,400.0,273.43
+Mobil,Toyota,Innova Reborn 2.4 G,2018,121494,2400,Automatic,400.0,239.27
+Mobil,Toyota,Innova Reborn 2.4 G,2018,73709,2400,Automatic,400.0,288.05
+Mobil,Toyota,Innova Reborn 2.4 G,2019,79751,2400,Automatic,400.0,270.02
+Mobil,Toyota,Innova Reborn 2.4 G,2019,85540,2400,Automatic,400.0,282.32
+Mobil,Toyota,Innova Reborn 2.4 G,2019,100820,2400,Automatic,400.0,285.44
+Mobil,Toyota,Innova Reborn 2.4 G,2019,77011,2400,Automatic,400.0,287.59
+Mobil,Toyota,Innova Reborn 2.4 G,2019,112023,2400,Automatic,400.0,273.49
+Mobil,Toyota,Innova Reborn 2.4 G,2019,69260,2400,Automatic,400.0,282.52
+Mobil,Toyota,Innova Reborn 2.4 G,2020,56283,2400,Automatic,400.0,306.83
+Mobil,Toyota,Innova Reborn 2.4 G,2020,85913,2400,Automatic,400.0,292.12
+Mobil,Toyota,Innova Reborn 2.4 G,2020,71448,2400,Automatic,400.0,293.97
+Mobil,Toyota,Innova Reborn 2.4 G,2020,57479,2400,Automatic,400.0,292.49
+Mobil,Toyota,Innova Reborn 2.4 G,2020,77763,2400,Automatic,400.0,298.38
+Mobil,Toyota,Innova Reborn 2.4 G,2020,33854,2400,Automatic,400.0,314.91
+Mobil,Toyota,Innova Reborn 2.4 G,2021,77470,2400,Automatic,400.0,301.32
+Mobil,Toyota,Innova Reborn 2.4 G,2021,47921,2400,Automatic,400.0,318.74
+Mobil,Toyota,Innova Reborn 2.4 G,2021,53252,2400,Automatic,400.0,313.1
+Mobil,Toyota,Innova Reborn 2.4 G,2021,65976,2400,Automatic,400.0,319.52
+Mobil,Toyota,Innova Reborn 2.4 G,2021,45129,2400,Automatic,400.0,312.19
+Mobil,Toyota,Innova Reborn 2.4 G,2021,37918,2400,Automatic,400.0,326.29
+Mobil,Toyota,Innova Reborn 2.4 G,2022,49730,2400,Automatic,400.0,327.96
+Mobil,Toyota,Innova Reborn 2.4 G,2022,50134,2400,Automatic,400.0,316.18
+Mobil,Toyota,Innova Reborn 2.4 G,2022,59949,2400,Automatic,400.0,325.14
+Mobil,Toyota,Innova Reborn 2.4 G,2022,62724,2400,Automatic,400.0,312.3
+Mobil,Toyota,Innova Reborn 2.4 G,2022,63730,2400,Automatic,400.0,318.25
+Mobil,Toyota,Innova Reborn 2.4 G,2022,62191,2400,Automatic,400.0,309.78
+Mobil,Toyota,Innova Reborn 2.4 G,2023,43971,2400,Automatic,400.0,359.43
+Mobil,Toyota,Innova Reborn 2.4 G,2023,27442,2400,Automatic,400.0,338.45
+Mobil,Toyota,Innova Reborn 2.4 G,2023,44326,2400,Automatic,400.0,337.02
+Mobil,Toyota,Innova Reborn 2.4 G,2023,39477,2400,Automatic,400.0,331.77
+Mobil,Toyota,Innova Reborn 2.4 G,2023,28332,2400,Automatic,400.0,336.56
+Mobil,Toyota,Innova Reborn 2.4 G,2023,41720,2400,Automatic,400.0,348.47
+Mobil,Toyota,Innova Reborn 2.4 G,2024,22533,2400,Automatic,400.0,370.01
+Mobil,Toyota,Innova Reborn 2.4 G,2024,23625,2400,Automatic,400.0,361.81
+Mobil,Toyota,Innova Reborn 2.4 G,2024,31627,2400,Automatic,400.0,346.79
+Mobil,Toyota,Innova Reborn 2.4 G,2024,26767,2400,Automatic,400.0,326.4
+Mobil,Toyota,Innova Reborn 2.4 G,2024,25601,2400,Automatic,400.0,356.75
+Mobil,Toyota,Innova Reborn 2.4 G,2024,11986,2400,Automatic,400.0,367.24
+Mobil,Toyota,Innova Reborn 2.4 G,2025,10140,2400,Automatic,400.0,380.76
+Mobil,Toyota,Innova Reborn 2.4 G,2025,10473,2400,Automatic,400.0,372.1
+Mobil,Toyota,Innova Reborn 2.4 G,2025,12937,2400,Automatic,400.0,374.9
+Mobil,Toyota,Innova Reborn 2.4 G,2025,9121,2400,Automatic,400.0,364.39
+Mobil,Toyota,Innova Reborn 2.4 G,2025,6971,2400,Automatic,400.0,378.12
+Mobil,Toyota,Innova Reborn 2.4 G,2025,8530,2400,Automatic,400.0,381.08
+Mobil,Toyota,Innova Reborn 2.4 G,2026,517,2400,Automatic,400.0,392.0
+Mobil,Toyota,Innova Reborn 2.4 G,2026,1279,2400,Automatic,400.0,392.0
+Mobil,Toyota,Innova Reborn 2.4 G,2026,1188,2400,Automatic,400.0,392.0
+Mobil,Toyota,Innova Reborn 2.4 G,2026,1869,2400,Automatic,400.0,392.0
+Mobil,Toyota,Innova Reborn 2.4 G,2026,500,2400,Automatic,400.0,392.0
+Mobil,Toyota,Innova Reborn 2.4 G,2026,788,2400,Automatic,400.0,390.46
+Mobil,Honda,Brio Satya E M/T,2021,78430,1200,Manual,165.0,119.87
+Mobil,Honda,Brio Satya E M/T,2021,61803,1200,Manual,165.0,121.91
+Mobil,Honda,Brio Satya E M/T,2021,70490,1200,Manual,165.0,116.01
+Mobil,Honda,Brio Satya E M/T,2021,42781,1200,Manual,165.0,131.93
+Mobil,Honda,Brio Satya E M/T,2021,50216,1200,Manual,165.0,131.14
+Mobil,Honda,Brio Satya E M/T,2021,44175,1200,Manual,165.0,127.07
+Mobil,Honda,Brio Satya E M/T,2022,59115,1200,Manual,165.0,131.67
+Mobil,Honda,Brio Satya E M/T,2022,26065,1200,Manual,165.0,137.27
+Mobil,Honda,Brio Satya E M/T,2022,22277,1200,Manual,165.0,139.86
+Mobil,Honda,Brio Satya E M/T,2022,52488,1200,Manual,165.0,126.13
+Mobil,Honda,Brio Satya E M/T,2022,53066,1200,Manual,165.0,131.75
+Mobil,Honda,Brio Satya E M/T,2022,51420,1200,Manual,165.0,135.14
+Mobil,Honda,Brio Satya E M/T,2023,40143,1200,Manual,165.0,137.1
+Mobil,Honda,Brio Satya E M/T,2023,17542,1200,Manual,165.0,142.77
+Mobil,Honda,Brio Satya E M/T,2023,24986,1200,Manual,165.0,140.24
+Mobil,Honda,Brio Satya E M/T,2023,24229,1200,Manual,165.0,151.59
+Mobil,Honda,Brio Satya E M/T,2023,18219,1200,Manual,165.0,144.19
+Mobil,Honda,Brio Satya E M/T,2023,22834,1200,Manual,165.0,154.04
+Mobil,Honda,Brio Satya E M/T,2024,20262,1200,Manual,165.0,150.35
+Mobil,Honda,Brio Satya E M/T,2024,13964,1200,Manual,165.0,146.69
+Mobil,Honda,Brio Satya E M/T,2024,26113,1200,Manual,165.0,148.1
+Mobil,Honda,Brio Satya E M/T,2024,33882,1200,Manual,165.0,147.81
+Mobil,Honda,Brio Satya E M/T,2024,33375,1200,Manual,165.0,145.27
+Mobil,Honda,Brio Satya E M/T,2024,13283,1200,Manual,165.0,151.05
+Mobil,Honda,Brio Satya E M/T,2025,13986,1200,Manual,165.0,156.49
+Mobil,Honda,Brio Satya E M/T,2025,11067,1200,Manual,165.0,150.33
+Mobil,Honda,Brio Satya E M/T,2025,12295,1200,Manual,165.0,150.16
+Mobil,Honda,Brio Satya E M/T,2025,6936,1200,Manual,165.0,149.97
+Mobil,Honda,Brio Satya E M/T,2025,15264,1200,Manual,165.0,156.07
+Mobil,Honda,Brio Satya E M/T,2025,17858,1200,Manual,165.0,150.52
+Mobil,Honda,Brio Satya E M/T,2026,904,1200,Manual,165.0,156.79
+Mobil,Honda,Brio Satya E M/T,2026,2063,1200,Manual,165.0,161.49
+Mobil,Honda,Brio Satya E M/T,2026,500,1200,Manual,165.0,161.7
+Mobil,Honda,Brio Satya E M/T,2026,500,1200,Manual,165.0,161.7
+Mobil,Honda,Brio Satya E M/T,2026,1026,1200,Manual,165.0,161.7
+Mobil,Honda,Brio Satya E M/T,2026,500,1200,Manual,165.0,161.7
+Mobil,Honda,HR-V 1.5 E CVT,2021,48107,1500,Automatic,365.0,305.06
+Mobil,Honda,HR-V 1.5 E CVT,2021,28912,1500,Automatic,365.0,286.04
+Mobil,Honda,HR-V 1.5 E CVT,2021,78048,1500,Automatic,365.0,272.77
+Mobil,Honda,HR-V 1.5 E CVT,2021,47504,1500,Automatic,365.0,305.44
+Mobil,Honda,HR-V 1.5 E CVT,2021,35826,1500,Automatic,365.0,268.47
+Mobil,Honda,HR-V 1.5 E CVT,2021,79668,1500,Automatic,365.0,283.92
+Mobil,Honda,HR-V 1.5 E CVT,2022,57121,1500,Automatic,365.0,288.59
+Mobil,Honda,HR-V 1.5 E CVT,2022,20623,1500,Automatic,365.0,302.55
+Mobil,Honda,HR-V 1.5 E CVT,2022,33217,1500,Automatic,365.0,297.64
+Mobil,Honda,HR-V 1.5 E CVT,2022,25331,1500,Automatic,365.0,296.62
+Mobil,Honda,HR-V 1.5 E CVT,2022,45591,1500,Automatic,365.0,302.29
+Mobil,Honda,HR-V 1.5 E CVT,2022,43065,1500,Automatic,365.0,278.82
+Mobil,Honda,HR-V 1.5 E CVT,2023,42867,1500,Automatic,365.0,317.58
+Mobil,Honda,HR-V 1.5 E CVT,2023,16558,1500,Automatic,365.0,323.05
+Mobil,Honda,HR-V 1.5 E CVT,2023,27717,1500,Automatic,365.0,300.7
+Mobil,Honda,HR-V 1.5 E CVT,2023,36853,1500,Automatic,365.0,327.02
+Mobil,Honda,HR-V 1.5 E CVT,2023,44175,1500,Automatic,365.0,303.83
+Mobil,Honda,HR-V 1.5 E CVT,2023,43819,1500,Automatic,365.0,305.85
+Mobil,Honda,HR-V 1.5 E CVT,2024,24963,1500,Automatic,365.0,331.99
+Mobil,Honda,HR-V 1.5 E CVT,2024,31098,1500,Automatic,365.0,316.0
+Mobil,Honda,HR-V 1.5 E CVT,2024,20628,1500,Automatic,365.0,321.98
+Mobil,Honda,HR-V 1.5 E CVT,2024,17251,1500,Automatic,365.0,322.11
+Mobil,Honda,HR-V 1.5 E CVT,2024,14281,1500,Automatic,365.0,328.93
+Mobil,Honda,HR-V 1.5 E CVT,2024,12387,1500,Automatic,365.0,340.98
+Mobil,Honda,HR-V 1.5 E CVT,2025,14813,1500,Automatic,365.0,351.57
+Mobil,Honda,HR-V 1.5 E CVT,2025,10821,1500,Automatic,365.0,342.92
+Mobil,Honda,HR-V 1.5 E CVT,2025,15581,1500,Automatic,365.0,351.3
+Mobil,Honda,HR-V 1.5 E CVT,2025,17503,1500,Automatic,365.0,328.62
+Mobil,Honda,HR-V 1.5 E CVT,2025,7713,1500,Automatic,365.0,341.25
+Mobil,Honda,HR-V 1.5 E CVT,2025,9113,1500,Automatic,365.0,329.7
+Mobil,Honda,HR-V 1.5 E CVT,2026,583,1500,Automatic,365.0,357.7
+Mobil,Honda,HR-V 1.5 E CVT,2026,500,1500,Automatic,365.0,357.7
+Mobil,Honda,HR-V 1.5 E CVT,2026,1639,1500,Automatic,365.0,357.7
+Mobil,Honda,HR-V 1.5 E CVT,2026,908,1500,Automatic,365.0,357.7
+Mobil,Honda,HR-V 1.5 E CVT,2026,1384,1500,Automatic,365.0,357.7
+Mobil,Honda,HR-V 1.5 E CVT,2026,913,1500,Automatic,365.0,357.7
+Mobil,Daihatsu,Xenia 1.3 X M/T,2020,77718,1300,Manual,190.0,140.74
+Mobil,Daihatsu,Xenia 1.3 X M/T,2020,44899,1300,Manual,190.0,145.87
+Mobil,Daihatsu,Xenia 1.3 X M/T,2020,37066,1300,Manual,190.0,145.73
+Mobil,Daihatsu,Xenia 1.3 X M/T,2020,78398,1300,Manual,190.0,141.55
+Mobil,Daihatsu,Xenia 1.3 X M/T,2020,72151,1300,Manual,190.0,134.46
+Mobil,Daihatsu,Xenia 1.3 X M/T,2020,77349,1300,Manual,190.0,138.97
+Mobil,Daihatsu,Xenia 1.3 X M/T,2021,66758,1300,Manual,190.0,149.97
+Mobil,Daihatsu,Xenia 1.3 X M/T,2021,54312,1300,Manual,190.0,142.25
+Mobil,Daihatsu,Xenia 1.3 X M/T,2021,42691,1300,Manual,190.0,152.12
+Mobil,Daihatsu,Xenia 1.3 X M/T,2021,44592,1300,Manual,190.0,147.23
+Mobil,Daihatsu,Xenia 1.3 X M/T,2021,64196,1300,Manual,190.0,148.65
+Mobil,Daihatsu,Xenia 1.3 X M/T,2021,75274,1300,Manual,190.0,147.98
+Mobil,Daihatsu,Xenia 1.3 X M/T,2022,26804,1300,Manual,190.0,154.46
+Mobil,Daihatsu,Xenia 1.3 X M/T,2022,36003,1300,Manual,190.0,161.81
+Mobil,Daihatsu,Xenia 1.3 X M/T,2022,44833,1300,Manual,190.0,161.33
+Mobil,Daihatsu,Xenia 1.3 X M/T,2022,54064,1300,Manual,190.0,160.59
+Mobil,Daihatsu,Xenia 1.3 X M/T,2022,51451,1300,Manual,190.0,159.36
+Mobil,Daihatsu,Xenia 1.3 X M/T,2022,36163,1300,Manual,190.0,148.75
+Mobil,Daihatsu,Xenia 1.3 X M/T,2023,41568,1300,Manual,190.0,158.57
+Mobil,Daihatsu,Xenia 1.3 X M/T,2023,46970,1300,Manual,190.0,160.97
+Mobil,Daihatsu,Xenia 1.3 X M/T,2023,41148,1300,Manual,190.0,160.97
+Mobil,Daihatsu,Xenia 1.3 X M/T,2023,18666,1300,Manual,190.0,159.32
+Mobil,Daihatsu,Xenia 1.3 X M/T,2023,47771,1300,Manual,190.0,149.61
+Mobil,Daihatsu,Xenia 1.3 X M/T,2023,49105,1300,Manual,190.0,156.89
+Mobil,Daihatsu,Xenia 1.3 X M/T,2024,27098,1300,Manual,190.0,169.83
+Mobil,Daihatsu,Xenia 1.3 X M/T,2024,30965,1300,Manual,190.0,169.51
+Mobil,Daihatsu,Xenia 1.3 X M/T,2024,21210,1300,Manual,190.0,166.78
+Mobil,Daihatsu,Xenia 1.3 X M/T,2024,20025,1300,Manual,190.0,173.2
+Mobil,Daihatsu,Xenia 1.3 X M/T,2024,25359,1300,Manual,190.0,174.28
+Mobil,Daihatsu,Xenia 1.3 X M/T,2024,32524,1300,Manual,190.0,166.34
+Mobil,Daihatsu,Xenia 1.3 X M/T,2025,9930,1300,Manual,190.0,182.24
+Mobil,Daihatsu,Xenia 1.3 X M/T,2025,8373,1300,Manual,190.0,176.65
+Mobil,Daihatsu,Xenia 1.3 X M/T,2025,11257,1300,Manual,190.0,182.39
+Mobil,Daihatsu,Xenia 1.3 X M/T,2025,9883,1300,Manual,190.0,171.35
+Mobil,Daihatsu,Xenia 1.3 X M/T,2025,12612,1300,Manual,190.0,179.62
+Mobil,Daihatsu,Xenia 1.3 X M/T,2025,6302,1300,Manual,190.0,180.08
+Mobil,Daihatsu,Xenia 1.3 X M/T,2026,1877,1300,Manual,190.0,181.17
+Mobil,Daihatsu,Xenia 1.3 X M/T,2026,1131,1300,Manual,190.0,185.16
+Mobil,Daihatsu,Xenia 1.3 X M/T,2026,2722,1300,Manual,190.0,184.23
+Mobil,Daihatsu,Xenia 1.3 X M/T,2026,2959,1300,Manual,190.0,185.38
+Mobil,Daihatsu,Xenia 1.3 X M/T,2026,573,1300,Manual,190.0,184.31
+Mobil,Daihatsu,Xenia 1.3 X M/T,2026,618,1300,Manual,190.0,180.15
+Mobil,Daihatsu,Terios R A/T,2021,56826,1500,Automatic,270.0,206.43
+Mobil,Daihatsu,Terios R A/T,2021,28522,1500,Automatic,270.0,223.7
+Mobil,Daihatsu,Terios R A/T,2021,61652,1500,Automatic,270.0,213.32
+Mobil,Daihatsu,Terios R A/T,2021,45830,1500,Automatic,270.0,210.74
+Mobil,Daihatsu,Terios R A/T,2021,27141,1500,Automatic,270.0,223.59
+Mobil,Daihatsu,Terios R A/T,2021,36171,1500,Automatic,270.0,220.56
+Mobil,Daihatsu,Terios R A/T,2022,37935,1500,Automatic,270.0,224.13
+Mobil,Daihatsu,Terios R A/T,2022,28882,1500,Automatic,270.0,221.11
+Mobil,Daihatsu,Terios R A/T,2022,58202,1500,Automatic,270.0,219.94
+Mobil,Daihatsu,Terios R A/T,2022,33495,1500,Automatic,270.0,220.2
+Mobil,Daihatsu,Terios R A/T,2022,44585,1500,Automatic,270.0,219.3
+Mobil,Daihatsu,Terios R A/T,2022,32910,1500,Automatic,270.0,217.19
+Mobil,Daihatsu,Terios R A/T,2023,27394,1500,Automatic,270.0,240.39
+Mobil,Daihatsu,Terios R A/T,2023,22198,1500,Automatic,270.0,243.41
+Mobil,Daihatsu,Terios R A/T,2023,27121,1500,Automatic,270.0,235.27
+Mobil,Daihatsu,Terios R A/T,2023,18903,1500,Automatic,270.0,232.92
+Mobil,Daihatsu,Terios R A/T,2023,23729,1500,Automatic,270.0,232.12
+Mobil,Daihatsu,Terios R A/T,2023,17841,1500,Automatic,270.0,232.43
+Mobil,Daihatsu,Terios R A/T,2024,16718,1500,Automatic,270.0,244.23
+Mobil,Daihatsu,Terios R A/T,2024,24850,1500,Automatic,270.0,262.79
+Mobil,Daihatsu,Terios R A/T,2024,14593,1500,Automatic,270.0,248.41
+Mobil,Daihatsu,Terios R A/T,2024,13726,1500,Automatic,270.0,236.73
+Mobil,Daihatsu,Terios R A/T,2024,33147,1500,Automatic,270.0,241.06
+Mobil,Daihatsu,Terios R A/T,2024,16942,1500,Automatic,270.0,255.54
+Mobil,Daihatsu,Terios R A/T,2025,14972,1500,Automatic,270.0,253.24
+Mobil,Daihatsu,Terios R A/T,2025,12441,1500,Automatic,270.0,254.47
+Mobil,Daihatsu,Terios R A/T,2025,12889,1500,Automatic,270.0,251.0
+Mobil,Daihatsu,Terios R A/T,2025,10912,1500,Automatic,270.0,258.67
+Mobil,Daihatsu,Terios R A/T,2025,8141,1500,Automatic,270.0,260.07
+Mobil,Daihatsu,Terios R A/T,2025,14166,1500,Automatic,270.0,255.86
+Mobil,Daihatsu,Terios R A/T,2026,931,1500,Automatic,270.0,264.6
+Mobil,Daihatsu,Terios R A/T,2026,1378,1500,Automatic,270.0,264.6
+Mobil,Daihatsu,Terios R A/T,2026,1264,1500,Automatic,270.0,264.6
+Mobil,Daihatsu,Terios R A/T,2026,2330,1500,Automatic,270.0,264.6
+Mobil,Daihatsu,Terios R A/T,2026,619,1500,Automatic,270.0,264.6
+Mobil,Daihatsu,Terios R A/T,2026,2446,1500,Automatic,270.0,260.04
+Mobil,Mitsubishi,Xpander Ultimate A/T,2020,38747,1500,Automatic,285.0,219.14
+Mobil,Mitsubishi,Xpander Ultimate A/T,2020,95179,1500,Automatic,285.0,209.93
+Mobil,Mitsubishi,Xpander Ultimate A/T,2020,61217,1500,Automatic,285.0,203.51
+Mobil,Mitsubishi,Xpander Ultimate A/T,2020,44235,1500,Automatic,285.0,229.97
+Mobil,Mitsubishi,Xpander Ultimate A/T,2020,45097,1500,Automatic,285.0,232.92
+Mobil,Mitsubishi,Xpander Ultimate A/T,2020,41022,1500,Automatic,285.0,230.48
+Mobil,Mitsubishi,Xpander Ultimate A/T,2021,71429,1500,Automatic,285.0,216.41
+Mobil,Mitsubishi,Xpander Ultimate A/T,2021,35562,1500,Automatic,285.0,231.13
+Mobil,Mitsubishi,Xpander Ultimate A/T,2021,52678,1500,Automatic,285.0,231.73
+Mobil,Mitsubishi,Xpander Ultimate A/T,2021,33253,1500,Automatic,285.0,232.92
+Mobil,Mitsubishi,Xpander Ultimate A/T,2021,38240,1500,Automatic,285.0,207.44
+Mobil,Mitsubishi,Xpander Ultimate A/T,2021,61027,1500,Automatic,285.0,211.13
+Mobil,Mitsubishi,Xpander Ultimate A/T,2022,29742,1500,Automatic,285.0,226.19
+Mobil,Mitsubishi,Xpander Ultimate A/T,2022,30430,1500,Automatic,285.0,236.98
+Mobil,Mitsubishi,Xpander Ultimate A/T,2022,56744,1500,Automatic,285.0,210.9
+Mobil,Mitsubishi,Xpander Ultimate A/T,2022,39241,1500,Automatic,285.0,247.72
+Mobil,Mitsubishi,Xpander Ultimate A/T,2022,48685,1500,Automatic,285.0,232.98
+Mobil,Mitsubishi,Xpander Ultimate A/T,2022,58891,1500,Automatic,285.0,234.44
+Mobil,Mitsubishi,Xpander Ultimate A/T,2023,42360,1500,Automatic,285.0,250.01
+Mobil,Mitsubishi,Xpander Ultimate A/T,2023,25983,1500,Automatic,285.0,256.25
+Mobil,Mitsubishi,Xpander Ultimate A/T,2023,41247,1500,Automatic,285.0,244.42
+Mobil,Mitsubishi,Xpander Ultimate A/T,2023,46733,1500,Automatic,285.0,250.31
+Mobil,Mitsubishi,Xpander Ultimate A/T,2023,32365,1500,Automatic,285.0,244.14
+Mobil,Mitsubishi,Xpander Ultimate A/T,2023,25267,1500,Automatic,285.0,241.93
+Mobil,Mitsubishi,Xpander Ultimate A/T,2024,31235,1500,Automatic,285.0,236.95
+Mobil,Mitsubishi,Xpander Ultimate A/T,2024,27472,1500,Automatic,285.0,267.96
+Mobil,Mitsubishi,Xpander Ultimate A/T,2024,29752,1500,Automatic,285.0,249.81
+Mobil,Mitsubishi,Xpander Ultimate A/T,2024,26167,1500,Automatic,285.0,248.18
+Mobil,Mitsubishi,Xpander Ultimate A/T,2024,20517,1500,Automatic,285.0,262.78
+Mobil,Mitsubishi,Xpander Ultimate A/T,2024,24171,1500,Automatic,285.0,262.14
+Mobil,Mitsubishi,Xpander Ultimate A/T,2025,9199,1500,Automatic,285.0,266.65
+Mobil,Mitsubishi,Xpander Ultimate A/T,2025,9697,1500,Automatic,285.0,266.63
+Mobil,Mitsubishi,Xpander Ultimate A/T,2025,12044,1500,Automatic,285.0,268.71
+Mobil,Mitsubishi,Xpander Ultimate A/T,2025,11103,1500,Automatic,285.0,276.98
+Mobil,Mitsubishi,Xpander Ultimate A/T,2025,10852,1500,Automatic,285.0,258.18
+Mobil,Mitsubishi,Xpander Ultimate A/T,2025,11231,1500,Automatic,285.0,279.3
+Mobil,Mitsubishi,Xpander Ultimate A/T,2026,500,1500,Automatic,285.0,270.61
+Mobil,Mitsubishi,Xpander Ultimate A/T,2026,500,1500,Automatic,285.0,279.3
+Mobil,Mitsubishi,Xpander Ultimate A/T,2026,990,1500,Automatic,285.0,279.3
+Mobil,Mitsubishi,Xpander Ultimate A/T,2026,2198,1500,Automatic,285.0,279.3
+Mobil,Mitsubishi,Xpander Ultimate A/T,2026,2108,1500,Automatic,285.0,279.3
+Mobil,Mitsubishi,Xpander Ultimate A/T,2026,1340,1500,Automatic,285.0,279.3
+Mobil,Mitsubishi,Pajero Sport Dakar,2019,98940,2400,Automatic,560.0,381.48
+Mobil,Mitsubishi,Pajero Sport Dakar,2019,56254,2400,Automatic,560.0,406.0
+Mobil,Mitsubishi,Pajero Sport Dakar,2019,71946,2400,Automatic,560.0,385.44
+Mobil,Mitsubishi,Pajero Sport Dakar,2019,98871,2400,Automatic,560.0,393.92
+Mobil,Mitsubishi,Pajero Sport Dakar,2019,73413,2400,Automatic,560.0,384.23
+Mobil,Mitsubishi,Pajero Sport Dakar,2019,112385,2400,Automatic,560.0,378.14
+Mobil,Mitsubishi,Pajero Sport Dakar,2020,38149,2400,Automatic,560.0,415.45
+Mobil,Mitsubishi,Pajero Sport Dakar,2020,33283,2400,Automatic,560.0,439.54
+Mobil,Mitsubishi,Pajero Sport Dakar,2020,92567,2400,Automatic,560.0,379.56
+Mobil,Mitsubishi,Pajero Sport Dakar,2020,60729,2400,Automatic,560.0,419.8
+Mobil,Mitsubishi,Pajero Sport Dakar,2020,70705,2400,Automatic,560.0,413.59
+Mobil,Mitsubishi,Pajero Sport Dakar,2020,76345,2400,Automatic,560.0,439.77
+Mobil,Mitsubishi,Pajero Sport Dakar,2021,40408,2400,Automatic,560.0,451.84
+Mobil,Mitsubishi,Pajero Sport Dakar,2021,63795,2400,Automatic,560.0,431.69
+Mobil,Mitsubishi,Pajero Sport Dakar,2021,70161,2400,Automatic,560.0,435.37
+Mobil,Mitsubishi,Pajero Sport Dakar,2021,73504,2400,Automatic,560.0,420.4
+Mobil,Mitsubishi,Pajero Sport Dakar,2021,52116,2400,Automatic,560.0,450.28
+Mobil,Mitsubishi,Pajero Sport Dakar,2021,63862,2400,Automatic,560.0,427.11
+Mobil,Mitsubishi,Pajero Sport Dakar,2022,64172,2400,Automatic,560.0,426.35
+Mobil,Mitsubishi,Pajero Sport Dakar,2022,51849,2400,Automatic,560.0,450.26
+Mobil,Mitsubishi,Pajero Sport Dakar,2022,47797,2400,Automatic,560.0,443.55
+Mobil,Mitsubishi,Pajero Sport Dakar,2022,38420,2400,Automatic,560.0,461.31
+Mobil,Mitsubishi,Pajero Sport Dakar,2022,53891,2400,Automatic,560.0,445.15
+Mobil,Mitsubishi,Pajero Sport Dakar,2022,61849,2400,Automatic,560.0,432.59
+Mobil,Mitsubishi,Pajero Sport Dakar,2023,18405,2400,Automatic,560.0,478.41
+Mobil,Mitsubishi,Pajero Sport Dakar,2023,43865,2400,Automatic,560.0,466.15
+Mobil,Mitsubishi,Pajero Sport Dakar,2023,19942,2400,Automatic,560.0,509.42
+Mobil,Mitsubishi,Pajero Sport Dakar,2023,32103,2400,Automatic,560.0,473.59
+Mobil,Mitsubishi,Pajero Sport Dakar,2023,20080,2400,Automatic,560.0,468.19
+Mobil,Mitsubishi,Pajero Sport Dakar,2023,18434,2400,Automatic,560.0,521.21
+Mobil,Mitsubishi,Pajero Sport Dakar,2024,25863,2400,Automatic,560.0,512.27
+Mobil,Mitsubishi,Pajero Sport Dakar,2024,21880,2400,Automatic,560.0,493.45
+Mobil,Mitsubishi,Pajero Sport Dakar,2024,21645,2400,Automatic,560.0,506.84
+Mobil,Mitsubishi,Pajero Sport Dakar,2024,22209,2400,Automatic,560.0,496.85
+Mobil,Mitsubishi,Pajero Sport Dakar,2024,16432,2400,Automatic,560.0,499.59
+Mobil,Mitsubishi,Pajero Sport Dakar,2024,27702,2400,Automatic,560.0,504.41
+Mobil,Mitsubishi,Pajero Sport Dakar,2025,7731,2400,Automatic,560.0,530.98
+Mobil,Mitsubishi,Pajero Sport Dakar,2025,9185,2400,Automatic,560.0,543.13
+Mobil,Mitsubishi,Pajero Sport Dakar,2025,15152,2400,Automatic,560.0,538.54
+Mobil,Mitsubishi,Pajero Sport Dakar,2025,9237,2400,Automatic,560.0,548.8
+Mobil,Mitsubishi,Pajero Sport Dakar,2025,13776,2400,Automatic,560.0,530.38
+Mobil,Mitsubishi,Pajero Sport Dakar,2025,16547,2400,Automatic,560.0,505.84
+Mobil,Mitsubishi,Pajero Sport Dakar,2026,2910,2400,Automatic,560.0,547.08
+Mobil,Mitsubishi,Pajero Sport Dakar,2026,983,2400,Automatic,560.0,548.8
+Mobil,Mitsubishi,Pajero Sport Dakar,2026,500,2400,Automatic,560.0,548.8
+Mobil,Mitsubishi,Pajero Sport Dakar,2026,500,2400,Automatic,560.0,547.56
+Mobil,Mitsubishi,Pajero Sport Dakar,2026,2495,2400,Automatic,560.0,547.57
+Mobil,Mitsubishi,Pajero Sport Dakar,2026,2192,2400,Automatic,560.0,537.72

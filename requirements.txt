@@ -1,0 +1,4 @@
+numpy
+pandas
+scikit-learn
+openpyxl   # opsional: hanya untuk membuat DATASET_KENDARAAN.xlsx
